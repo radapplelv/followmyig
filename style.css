@@ -1,0 +1,44 @@
+h2 {
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 500;
+}
+
+#symbol {
+	margin-left: 24px;
+}
+
+div {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ul li {
+	display: table-cell;
+	vertical-align: middle;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	padding-right: 24px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#typotype {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+
+.titlemenu {
+	float: right;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul {
+	vertical-align: midd
+}
